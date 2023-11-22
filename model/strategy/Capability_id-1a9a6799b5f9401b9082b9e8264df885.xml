@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C.6. Perform work on energy grids"
-    id="id-1a9a6799b5f9401b9082b9e8264df885"/>
+    id="id-1a9a6799b5f9401b9082b9e8264df885"
+    documentation="The ability to exchange data with energy market parties, fully and at the right time, to guarantee market force.&#xD;&#xA;"/>
