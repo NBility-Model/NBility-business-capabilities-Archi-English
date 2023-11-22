@@ -27,4 +27,4 @@ This project is licensed - see [LICENSE](LICENSE) for details.
 Please read [CONTRIBUTING.md] for details on the process for submitting pull requests to us.
 
 # Contact
-Please read [SUPPORT.md] for how to connect and get into contact with the NBility-business-capabilities model project
+Please read [SUPPORT.md] for how to connect and get into contact with the NBility-business-capabilities model project.
