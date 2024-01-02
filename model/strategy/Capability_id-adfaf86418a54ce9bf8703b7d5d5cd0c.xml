@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.2.1.5. Include energy grids in the control of energy transport"
+    id="id-adfaf86418a54ce9bf8703b7d5d5cd0c"
+    documentation="The ability to include net components in the operations of the energy grid, such as visibility in the monitoring and control of SCADA.&#xD;&#xA;"/>

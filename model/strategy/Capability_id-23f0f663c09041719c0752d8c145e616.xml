@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.2.2.2. Assign disturbances"
+    id="id-23f0f663c09041719c0752d8c145e616"
+    documentation="The ability to associate a technician with the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault.&#xD;&#xA;"/>

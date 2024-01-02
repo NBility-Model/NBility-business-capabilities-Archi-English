@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.3.2.6. Investigate malfunctions"
+    id="id-f1194ed02be045858638e0b70431f1e5"
+    documentation="The ability to perform root cause analyses on the failures of a certain period and to convert these into improvement actions including adjustment of maintenance plan, redevelopment/renewal of grid components, adjustment of failure handling process, ..&#xD;&#xA;"/>

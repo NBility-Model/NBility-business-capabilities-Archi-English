@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.2.3.2. Determine impact of (planned) outages"
+    id="id-881bf64c71394890a9c992deca5c6c2f"
+    documentation="The ability to determine which connections are affected by the (planned/unplanned) interruption and for which duration.&#xD;&#xA;"/>

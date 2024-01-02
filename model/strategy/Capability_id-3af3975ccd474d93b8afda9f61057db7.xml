@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C.2.1.1. Monitor energy transport"
-    id="id-3af3975ccd474d93b8afda9f61057db7"/>
+    id="id-3af3975ccd474d93b8afda9f61057db7"
+    documentation="The ability to monitor the energy supply/demand balance of the grid and bottlenecks.&#xD;&#xA;"/>
