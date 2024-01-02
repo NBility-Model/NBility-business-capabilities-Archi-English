@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.4.2.2. Make measurements available on demand "
+    id="id-9e7101de89e64575b027819052e6e575"
+    documentation="The ability to make measurements of energy flows and energy grids available to other capabilities on demand. For example for periodic dashboardind and reporting or batch and offline analytics. &#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.6.3.1. Execute energy market procedures"
+    id="id-50a8b05cea124e22897098d6298e6fc5"
+    documentation="The ability to accept and handle requests for changes of connections and allocation points  initiated by market parties (like switching, move in, move out and banckruptcy of supplier)&#xD;&#xA;"/>

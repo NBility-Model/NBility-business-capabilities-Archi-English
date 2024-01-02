@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.4.2.1. Make measurements available immediately"
+    id="id-06c85ee463454fa5812d4db8884dc67d"
+    documentation="The ability to make measurements of energy flows and energy grids available to other capabilities without or with minimal delay. For example for real time dashboard, analytics or billing information.&#xD;&#xA;"/>
