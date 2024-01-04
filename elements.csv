@@ -1,0 +1,251 @@
+"ID","Type","Name","Documentation","Specialization"
+"id-f9059b26cc89413eae691a04bdf8e9fb","ArchimateModel","NBility-business-capabilities-EN","",""
+"id-c66353c42a6f4ba7bb646becc41e9426","Capability","C.1. Serve Customers","The ability to optimally serve our customers in their use of our products and services
+",""
+"id-b771748d1ce646028dad856d8cf72957","Capability","C.1.1. Serve customers and maintain relations","The ability to serve customers and maintain relations.
+
+",""
+"id-ecb7e31850e74a6e9f6a3678946c4a43","Capability","C.1.1.1 Provide service to customers","",""
+"id-a0d55afe4eef464da18a2e9df80cab99","Capability","C.1.1.2. Handle customer report/question/request","",""
+"id-284846c427004acf91897115c0a3f4fc","Capability","C.1.1.3 Determine contact person/responsible person for location","",""
+"id-e536ba6cfb2247ac8a80fd20636ecc14","Capability","C.1.1.4. Maintain relationship with customers","",""
+"id-9df6c0c34f9843599e122d0a644d8127","Capability","C.1.1.5 Collect energy demand","",""
+"id-f189d5b7bd974048b7adb86dcfe2a730","Capability","C.1.1.6. Monitor and influence customer experience","",""
+"id-219bd4fb0093441994ab886e3de5e20a","Capability","C.1.2. Acquire and manage contracts","The ability to enter into and manage agreements with customers.
+",""
+"id-7b1dc7e6a6e540d4b543948b58a97eb7","Capability","C.1.2.1. Quote products to customers","",""
+"id-0b090b566e584fba96e73cb3fcc79a04","Capability","C.1.2.2. Close, adjust, manage and terminate contracts/SLAs","",""
+"id-a507e325982a4b19bf33ea1e83ac441f","Capability","C.1.2.3. Develop and manage products and services","",""
+"id-241dc54c6a564f8ba65332efd8d9ff1b","Capability","C.1.3. Invoice and collect","The ability to create, send and collect invoices and/or process payments
+",""
+"id-3024a5d0213e45f9a9067c41342d0831","Capability","C.1.3.1. Calculate compensation for services rendered","",""
+"id-2ccdcfd6dea14701b6e72b85c82d807c","Capability","C.1.3.2. Create and send invoice","",""
+"id-d382169a31634bd3a07f34605d1edd2e","Capability","C.1.3.3. Manage and collect outstanding debts","",""
+"id-2089d6f53a9a4cfd8026914d59525ce8","Capability","C.1.4. Limit revenue loss","The ability to detect revenue loss, identify causes and remove or repair them
+",""
+"id-d99342ffb25140d6b4a5fec83568a454","Capability","C.1.4.1. Claim damage caused by third parties","",""
+"id-f1975be0b4df4f84bbf0e1ded5356dac","Capability","C.1.4.2. Determine disturbance compensation","",""
+"id-6a9027191c9246d0bd5df1787f054f67","Capability","C.1.4.3. Determine compensation for damage caused by work activities","",""
+"id-7918af1f276042c7b88ce3c684fcf39f","Capability","C.1.4.4. Monitor and reduce connections without contract","",""
+"id-ecaeacf02abe4b91852c137374ff416f","Capability","C.1.4.5. Fight fraud","",""
+"id-67eb04eaa5154207a732112ff213560d","Capability","C.2. Transport Energy","The ability to bring together, balance and ensure continuity of energy supply and consumption, so that customers receive energy within the applicable requirements.
+",""
+"id-a53612488d64410a97e2fd82e70c255a","Capability","C.2.1. Realise energy transport","The ability to determine and coordinate supply and demand in the moment.
+",""
+"id-3af3975ccd474d93b8afda9f61057db7","Capability","C.2.1.1. Monitor energy transport","The ability to monitor the energy supply/demand balance of the grid and bottlenecks.
+",""
+"id-c9d1817302f84910a6bb493c4f9dc8df","Capability","C.2.1.2 Monitor the operation of grid components","",""
+"id-30ab34a90b434473834c47d96ad6ab05","Capability","C.2.1.3 Control energy transport","The ability to determine and send control actions to specific net components, supported by signal and/or measurement data and formalised logic to keep energy flowing and maintain balance.
+",""
+"id-f2873915d90946b09100b2689abd4046","Capability","C.2.1.4. Commission/decommission energy grids on distance","The ability to effect control actions on net components and take a grid part into or out of operation (remote switching), including sequence dependence of such actions. This can be in the context of maintenance as well as for new construction. Circuit plans are input for this.
+",""
+"id-adfaf86418a54ce9bf8703b7d5d5cd0c","Capability","C.2.1.5. Include energy grids in the control of energy transport","The ability to include net components in the operations of the energy grid, such as visibility in the monitoring and control of SCADA.
+",""
+"id-956d39e96e864103a358888355767b65","Capability","C.2.2. Restore energy transport ","The ability to correct anomalies in energy transport
+",""
+"id-5e5db88ab46648879dd0a176a9853786","Capability","C.2.2.1. Classify disturbances","The ability to determine the type of failure partly based on an estimate of local conditions (eg location of gas leak, number of parts per million (ppm), regulated, sector and internal guidelines, impact or possible impact).
+",""
+"id-23f0f663c09041719c0752d8c145e616","Capability","C.2.2.2. Assign disturbances","The ability to associate a technician with the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault.
+",""
+"id-6b1144a86e324e97a42d8703d39d7001","Capability","C.2.2.3. Analyse disturbances","The ability to (instantly) determine the cause/causes and/or consequences of the malfunction. For the purpose of solving the malfunction, usually by the technician and/or operator.
+",""
+"id-ef2cc03b82514fa39a808e9823c9a1db","Capability","C.2.2.4. Recover from disturbances and outages","The ability to put the energy grid 'in operation' in order to minimise the disturbance impact (outage minutes of consumers).
+",""
+"id-4d4aa521755c4b768894dc0b87d1fe33","Capability","C.2.2.5. Initiate permanent disturbance recovery","The ability to bring the energy grid 'into standard operation' after maintenance or to bring it back in the aftermath of a failure.
+",""
+"id-7d7d078c20e74ece82ee36957b73f3a3","Capability","C.2.3. Create transport and switching plans","The ability to plan energy transport and align operations with safety, operational and timeliness requirements
+",""
+"id-7db006012be041f1a27c90c0384ec004","Capability","C.2.3.1. Plan and analyse transport","The ability to estimate the load on the energy grid in the short term, including identifying congestion, balance differences and processing the results of adjustment actions (e.g. switching actions and direct and/or market flex call). Creating the inclusive insight that is necessary to be able to draw up a T-forecast (transport forecast).
+",""
+"id-881bf64c71394890a9c992deca5c6c2f","Capability","C.2.3.2. Determine impact of (planned) outages","The ability to determine which connections are affected by the (planned/unplanned) interruption and for which duration.
+",""
+"id-eac763453a2741d983755510f9070b1f","Capability","C.2.3.3. Create switching plans","The ability to create sequential overviews of actions to be performed (operation) on grid components.
+",""
+"id-e69bb876d58044e4a358d77254a6467d","Capability","C.3. Manage the development and maintenance of energy grids","The ability to develop energy grids and keep them available at the agreed level, to ensure the energy grid continuously meets the set requirements. E.g. the development of primary, secondary, tertiary and telecom net components.
+",""
+"id-93942103c8bb491d87e4eed1902b138d","Capability","C.3.1. Expand, replace and renew energy grids","The ability to define work for adjustments to the energy grids
+
+",""
+"id-f1dc6c86c37c4e4b8f2a2690d07665fe","Capability","C.3.1.1. Collect and analyse/simulate (changed) needs for capacity and functionality","The ability to collect, analyse and simulate (changing) needs for capacity and functionality. Think of: long term, investments/capex planning.
+",""
+"id-3e5a836bf6744fd0a675949a8ef8c70c","Capability","C.3.1.2. Determine and value grid risks on capacity and/or functionality","The ability to determine and value grid risks and bottlenecks on capacity and/or functionality, given the need for capacity and functionality and the capacity and functionality of the current energy grid. For example: tactical risk management, risk management methodology.
+",""
+"id-1e8c459c3be544c2b4653118b8ffbf28","Capability","C.3.1.3. Analyse alternatives for mitigation risk on capacity and/or functionality and determine mitigation measures","",""
+"id-7aae0dc09d32420ba6d628f2484764e8","Capability","C.3.1.4. (Long-term) plan measures on capacity and/or functionality","The ability to plan measures in time with agreed horizons (multiple years, year, rolling quarter, …). For example: euros and money, within budget limits, programs such as cast iron replacement, coordination with service provider (Sales&OperationsPlanning (S&OP) - demand).
+",""
+"id-b9b5fa3a218c45099346942701630439","Capability","C.3.1.5. Create Functional requirements/design","The ability to functionally design the particular adjustments including determining the set of requirements for the change.
+",""
+"id-469febbbe6e542ed97b67e1f94be9d24","Capability","C.3.1.6. Perform environmental analysis","The ability to perform environmental analysis. Think about: soil conditions, asbestos, flora, fauna, legal ownership.
+",""
+"id-4a6fab6c8cc14b8ca24d18a0aae37490","Capability","C.3.1.7. Obtain route permits / lay down right in rem","The ability to obtain route permits and to lay down rights in rem.
+",""
+"id-7d997197ed204e5c9fdeaa3b5229b250","Capability","C.3.1.8. Issue, monitor and record grid adjustments","The ability to provide the contract for the adjustment to the contractor including the functional design/set of requirements. Monitoring the grid adjustment, including providing input to (long-term) planning in case of deviation outside the bandwidth and to functional design in case of deviation from the functional design/set of requirements. Ensuring and enabling processing of the adjustments of the assets in the asset registrations. 
+",""
+"id-97fe20117ced45f4bca50c78bfba3a89","Capability","C.3.2. Maintain energy grids ","The ability to define activities that keep the energy grids available based on grid condition related to agreed performance.
+",""
+"id-e396da8082fb4f8eb2ab9c1ced946336","Capability","C.3.2.1. Inventorise and analyse grid and grid component status ","The ability to inventorise the condition of grid components and of the grid (including using (sensor) data from/about the components and the grid) and to analyse/determine them. 
+",""
+"id-164e0f6201c649b5923a2a280cefd9b1","Capability","C.3.2.2. Determine and value grid risks on quality","The ability to determine and value grid risks and bottlenecks on quality, given the condition of the grid components and the grid.
+",""
+"id-afb667f567a9479f83b3c26bb9e69234","Capability","C.3.2.3. Analyse alternatives to mitigate quality risk and determine mitigating measures","The ability to formulate and analyse alternatives for mitigation of grid risk quality/bottleneck resolution and determine mitigating measures
+",""
+"id-745e2c8790e84e6bb257f20f485e8c63","Capability","C.3.2.4. Determine (multi-)year planning for maintenance and inspections","The ability to plan maintenance and inspection measures in time with agreed horizons (multiple years, year, rolling quarter, …)
+",""
+"id-82159b8572734f8d862c479b52c51a0b","Capability","C.3.2.5. Provide and monitor maintenance and inspection orders","The ability to issue the contract for maintenance and/or inspection to the contractor. Monitoring/measuring maintenance and/or inspections, including providing input to (multi-year) planning in case of deviation outside the bandwidth. 
+",""
+"id-f1194ed02be045858638e0b70431f1e5","Capability","C.3.2.6. Investigate malfunctions","The ability to perform root cause analyses on the failures of a certain period and to convert these into improvement actions including adjustment of maintenance plan, redevelopment/renewal of grid components, adjustment of failure handling process, ..
+",""
+"id-5d58256c718a456585ab386fdf66e689","Capability","C.3.2.7. Prevent excavation damage","The ability to prevent excavation damage.  
+",""
+"id-31e068f9791f4185806eacec9e71040b","Capability","C.3.2.8. Purchase and minimize technical grid loss ","The ability to purchase and minimize the energetic grid losses (eg due to resistance losses caused by grid components or by leaks in the gas grid). 
+",""
+"id-4973788028b44c089b43e84bf8ce2247","Capability","C.3.3. Establish energy grid guidelines and patterns","The ability to translate laws and regulations, safety and environmental requirements into guidelines, policies and implementation patterns for the energy grids and to have them applied.
+",""
+"id-02527f34f2f743e291d9707620f3f99a","Capability","C.3.3.1. Develope a vision on energy grids","The ability to develop a vision for energy grids, for example by making use of innovations.
+",""
+"id-5aa5dd85ed1f48d0863b5185f1ce3fe1","Capability","C.3.3.2. Identify strategic risks on energy grids","The ability to identify strategic risks on energy grids and the energy supply.
+",""
+"id-5dda5820046f48509bba9c497c489707","Capability","C.3.3.3. Develop strategy on energy grids","The ability to develop a strategy on energy grids and the energy supply.
+",""
+"id-3620177651c445409020965e300a5d16","Capability","C.3.3.4. Develop and maintain policies and standards on energy grids","The ability to develop and maintain policies and standards for adapting (expanding, replacing, renewing) and maintaining energy grids, such as a technical manual.
+",""
+"id-4f570b16511b42b289e5a0cca5d23249","Capability","C.3.3.5. Develop grid components","",""
+"id-a917dd9f933a4caea16f13ba902a5943","Capability","C.3.3.6. Translate external regulations into guidelines","The ability to translate external regulations into internal guidelines (policies and standards).
+",""
+"id-9bd03d73387549bbbd85b5975ff60690","Capability","C.4. Measure energy flows and energy grids ","The ability to measure energy flows and energy grids and to make these measurements available so other capabilities can use these measurements.
+",""
+"id-ae8d1522e85440c6b2ee20cf6dd410a8","Capability","C.4.1. Obtain measurements ","Obtain measurements 
+",""
+"id-1fc2791d907f48e5a657a74670fd6008","Capability","C.4.1.1. Perceive energy flows and energy grids and transform into measurements","The ability to perceive energy flows and energy grids (net throughput, function performance, net component property) and transform into measurements (measurement data).
+",""
+"id-6f1f23c8a7af449a80ee4bfdb34ff7a9","Capability","C.4.1.2. Collect measurements","The ability of collecting measurements for processing purposes.
+",""
+"id-4d7f2b2bfffe485282be5d3886fb8caa","Capability","C.4.1.3. Make measurements interpretable","",""
+"id-1dbde8ac00894413a0757f6092f71012","Capability","C.4.1.4. Validate measurements","The ability to check measurements against validity rules and correct them if necessary.
+",""
+"id-ae0d19a6c65a4bbb97a3a06688749577","Capability","C.4.2. Distribute measurements ","Distribute measurements 
+",""
+"id-06c85ee463454fa5812d4db8884dc67d","Capability","C.4.2.1. Make measurements available immediately","The ability to make measurements of energy flows and energy grids available to other capabilities without or with minimal delay. For example for real time dashboard, analytics or billing information.
+",""
+"id-9e7101de89e64575b027819052e6e575","Capability","C.4.2.2. Make measurements available on demand ","The ability to make measurements of energy flows and energy grids available to other capabilities on demand. For example for periodic dashboardind and reporting or batch and offline analytics. 
+",""
+"id-f1515cba52e042f591fed76077eec1e6","Capability","C.5. Facilitate the energy market","The ability to perform work on energy grids, like building, replacement and maintenance, in an efficient and predictable manner.
+",""
+"id-ea14222f1fe54ef78e84ffe7767dead6","Capability","C.5.1. Create and maintain work portfolio","Create and maintain work portfolio
+",""
+"id-c4ef9eb8fdd4469499ea2286f5f5a04b","Capability","C.5.1.1. Prepare and maintain work portfolio","The ability to prepare and maintain a portfolio for work on energy grids, taking into account the capacity. The portofolio concern the service provider, like Sales&OperationsPlanning (S&OP) - Supply.
+",""
+"id-03eaa022562d4c22824096bad91bb9cc","Capability","C.5.2. Direct work execution","The ability to direct work execution on energy grids.
+",""
+"id-096c196374b142d091a24ec175654517","Capability","C.5.2.1. Advise clients on work","The ability to estimate work and to advise clients, like an asset manager, on this work
+",""
+"id-082aa2ef2acb467bb1f9d7bb6a8255c3","Capability","C.5.2.2. Issue work to execution","The ability to instruct on work in progress within or 
+Het vermogen om opdrachten te geven aan de uitvoering inside or outside the grid operator
+",""
+"id-72d58915be0e4caf98cdfc557a0074f1","Capability","C.5.2.3. Coordinate work execution","The ability to coordinate work, like projectmanagement and managing failure of orders. ",""
+"id-7d2593842c454045a7c6386b44386ea0","Capability","C.5.2.4. Evaluate work execution","The ability to evaluate work after ending work or in case of long lasting work during the work.
+",""
+"id-4264a569a51a48d698f7b0a05ebadf41","Capability","C.5.3. Execute work","The ability to perform work on energy grids. 
+",""
+"id-96d378f5a5b244ee8f1fd476832c9e77","Capability","C.5.3.1. Create preliminary and final design of energy grids","The ability to create preliminary and final design of energy grids, taking into account (technical) guidelines and function design/program requirements.
+",""
+"id-cdf0317c76824557b645138ee8858b68","Capability","C.5.3.2. Prepare execution of work","The ability to prepare execution of work, like resource planning, materials and equipment,  permits and soil investigation, digging notification.
+",""
+"id-b36272d4bebe438880fa014aedc7b202","Capability","C.5.3.3. Operationally plan work","The ability to execute operational planning of work, like scheduling technicians.
+",""
+"id-c242dc22bbe04035a960441e41198969","Capability","C.5.3.4. Secure the work environment","The ability to secure the working environment, like voltage free energy grid and blocking roads. 
+",""
+"id-e3c0092ba95f4fb6ad2ee01b557e0d09","Capability","C.5.3.5. Execute work","The ability to execute work, like work on expansion, replacement, renewal, maintenance, inspection, connections and reconstructions.
+",""
+"id-13160190503f4482bdfb1847aaec67a0","Capability","C.5.3.6. Commission and decommision grid components on premises","The ability to commission and decommission grid components on the premises.
+",""
+"id-903e9199ca104d3eb8ff0b5b2130df59","Capability","C.5.3.7. Complete work on energy grid components administratively","The ability to complete work on energy grid components administratively, like time of work/acts/tasked completed, worked hours, used materials, data of inspections and data on placed energy grid components for asset administration purposes. 
+",""
+"id-0eaa689404bd4d29bc56447f4e2dd339","Capability","C.5.4. Support work","The ability to facilitate activities on energy grids, so that they can be executed. 
+",""
+"id-1757ce16d49e42f5bb9165eade99ac30","Capability","C.5.4.1. Create and manage standard construction specifications","",""
+"id-50a01d4245e04e0abfc0344ebf75b1f0","Capability","C.5.4.2. Manage execution capacity","The ability to manage the execution capacity needed for executing expected and/or agreed activities. Think about: assign/reserve capacity groups, call off assinging flexible capacity, monitoring capacity for needed call off/qualification, directing the development of execution capacity. Key managament for station access. 
+",""
+"id-3f5579f8dcbe47339bde86f8efcb07f7","Capability","C.5.4.3. Manage warehouses and stock","The ability to manage warehouses and stock. Think about storage, stock issueing, returns and stock taking.
+",""
+"id-24e8e1fcd569454cacd1358b3f9d6b6a","Capability","C.5.4.4. Distribute goods physically","The ability to distribute goods physically. Think about: from central warehouse to decentralised warehoud, to workplace, to car.
+",""
+"id-3a9c03c107734950a66126bc6b235f31","Capability","C.5.4.5. Maintain equipment","",""
+"id-1a9a6799b5f9401b9082b9e8264df885","Capability","C.6. Perform work on energy grids","The ability to exchange data with energy market parties, fully and at the right time, to guarantee market force.
+",""
+"id-1c188bb315e54e92823b13d1785738cd","Capability","C.6.1. Serve market parties and maintain relations","The ability to serve energy market parties and maintain relations between them. 
+",""
+"id-00f369d3c3014b11aca44017f3bded79","Capability","C.6.1.1. Maintain relations with market parties","The ability to maintain relations with market parties, including the registration of these market parties, e.g. energy supplier, balance responsible party (BRP), Aggregators, …
+",""
+"id-da233b1ecdc842b18a6424ee76242d52","Capability","C.6.1.2. Handle questions of market parties","The ability to accept and handle market parties questions, like questions about measurements, invoices, etc.
+",""
+"id-422a7538e282451f9439ddfb8ad19d70","Capability","C.6.1.3. Close contracts for market services","The ability to close contracts for market services.
+",""
+"id-e562eb85779c4b8fa77aac2c560e7c34","Capability","C.6.1.4. Manage energy markets","""The ability to manage energy markets enabling trading of energy services.
+""
+",""
+"id-706f841cdcc3409c8d8d0361dfb92ee9","Capability","C.6.2. Manage market data","The ability to managing market date for facilitating the energy market.
+",""
+"id-35a7fe3a0884468184560607cf077898","Capability","C.6.2.1. Manage energy grid connections","The ability to manage market data on connections and allocation points
+",""
+"id-5a79b9f3f76f4513ba0289a86e8bb0f1","Capability","C.6.2.2. Manage installations behind connections","The ability to manage market data on production, storage and consumption units. 
+",""
+"id-36fe569d602b49b396c909a5474aa441","Capability","C.6.2.3. Manage congestion areas","The ability to manage congestion areas
+",""
+"id-c57db3190db94cceba6b9f9e1b8da790","Capability","C.6.3. Perform/facilitate market processes","The ability to perform/facilitate market processes. 
+",""
+"id-50a8b05cea124e22897098d6298e6fc5","Capability","C.6.3.1. Execute energy market procedures","The ability to accept and handle requests for changes of connections and allocation points  initiated by market parties (like switching, move in, move out and banckruptcy of supplier)
+",""
+"id-edbdfe92593a4ee8b339ca1493681811","Capability","C.6.3.2. Exchange energy predictions","The ability to exchange energy predictions (forecast, nomination). Think about energy predictions with Balance Responsible Party.",""
+"id-e4e8f5178cd84e94a4c675d52ced6770","Capability","C.6.3.3. Determine energy exchange","The ability to calculate consumption and generation estimations like energy consumption according to the standard annual consumption method.
+",""
+"id-77134757a8544784b9329e2f3b170abf","Capability","C.6.3.4. Allocate energy exchange to market parties ","The ability to allocate transported energy volumes to market parties (based on daily volume measurements or on estimations/profiles). The ability to reconcile energy volumes allocated to market parties based on actual consumption data (meter readings) and to settle volume differences between actual profiled consumption (assigned consumption) and measured consumption (meter readings).
+",""
+"id-f4186ea3554e4a67b4081a9ea1149237","Capability","C.6.3.5. Communicate upward or downward regulation demand","The ability to communicate upward or downward regulation demand.
+",""
+"id-c2e6151282314c73a542cdfbeb847dda","Capability","C.6.3.6. Manage upward or downward regulation bids","The ability to manage Upward or downward regulation bids.
+",""
+"id-d8b4f627519641db8f437ec17c25e6d0","Capability","C.6.4. Enable market data distribution","The ability to enable distribution of market data (on request, to third parties and open data). Market process data is distrbuted in capability perform market processes.
+",""
+"id-f5192572ed9b44659cb297d3c2df87fe","Capability","C.6.4.1. Make market data available to parties","The ability to exchange data by market messages, based on a legal basis or in response to issued permission, for the purpose of market facilitation.
+",""
+"id-b4762516a4d249958887a543b452ccbe","Capability","C.6.4.2. Make open data available for third parties","The ability to exchange data with customers and/or stakeholders like municipalities, energy corporations, warmtebedrijfen, housing corporation, provinces, central government and consultancy agencies, for the purpose of the energy transition or other environmental issues.
+",""
+"id-4c0ae7fde823424eb6c6bdb77c2b71bf","Capability","C.6.4.3. Manage issued permissions","The ability to manage, issued permissions of consumers, concerning sharing energy consumption and productiondata with allowed parties. 
+",""
+"id-24fc1a0c8be742ec9ad49a46b80d8868","Capability","E.1. Develop and control business direction","Develop and control business direction
+",""
+"id-e9b444cd09f24733a1521733f669f6df","Capability","E.1.1. Formulate strategy","",""
+"id-a6f7d39a7adb467bb25f17be2959a11a","Capability","E.1.2. Align stakeholders","",""
+"id-acef0b7a7f3142b99a099733454b6486","Capability","E.1.3. Manage enterprise transformation","",""
+"id-f62fae9ce3174216828349cc2ee37677","Capability","E.1.4. Ensure business continuity and compliance","",""
+"id-82b5337ec5cf4692ae3780e117de6b9e","Capability","E.2. Develop and manage processes and data","Develop and manage processes and data
+",""
+"id-db8fc0fd71f044a597fb788e7a0e2233","Capability","E.2.1. Manage processes","",""
+"id-a7d50a90ab494e1c90f6bd377b7d23b6","Capability","E.2.2. Manage data","",""
+"id-6259b4ca642a40d79369d7c3ee645b64","Capability","E.3. Recruit and manage human capital","Recruit and manage human capital
+",""
+"id-8f2ba0e02f6d4c98b5184393a4d91e0e","Capability","E.3.1. Develop and manage employee strategy and plans","",""
+"id-c050c67dc53f4a69b920d7dcdf59f4d9","Capability","E.3.2. Recruite and exit employees","",""
+"id-c5327bffb10943f5928e89fabd1153a8","Capability","E.3.3. Retain employees","",""
+"id-d09662d3c8de44bab2b6dae9fc9a92b0","Capability","E.3.4. Develop employees","",""
+"id-48b41e9ec6c349eab832b710f178a4f8","Capability","E.4. Develop and maintain digital technology","Develop and maintain digital technology
+",""
+"id-b6f8f6beedec4e678bb0efb92a4e64d0","Capability","E.4.1. Develop digital technology strategy and manage digital product portfolio","",""
+"id-a09af2c21f15471b95368b34ea23d4e9","Capability","E.4.2. Develop digital products","",""
+"id-660fb325606841a388a26a69ec9695c7","Capability","E.4.3. Deliver digital products","",""
+"id-fd02c24947024bde9201d8433fc6f65d","Capability","E.4.4. Assure Digital products","",""
+"id-4c535732a8594f6995292995383de9f4","Capability","E.5. Obtain goods and services","Obtain goods and services
+",""
+"id-9f97a962e4de41f48c58a2abc882aaea","Capability","E.5.1. Obtain goods and services","",""
+"id-73415a16fe184956b5f7a7bf60721b57","Capability","E.5.2. Close and monitor contracts with suppliers","",""
+"id-d0af6d84a8054b87b0981a5e1578bdf9","Capability","E.6. Manage buildings and facilities","Manage buildings and facilities
+",""
+"id-6caa29aaebce4f3e8f3b15b5efb93610","Capability","E.6.1. Manage real estate","",""
+"id-d971d1fcff574327a60c26c4733cd771","Capability","E.6.2. Manage facilities","",""
+"id-6ebb40cfcf4d45dd8bd69a01c9504772","Capability","E.7. Manage finance","Manage finance
+",""
+"id-50227bc388e8400d998bd448feda054e","Capability","E.7.1. Create and monitor finance strategy and plans and financial justification","",""
+"id-c2ab9c8b38be48ce81ddbdbe8f4b4393","Capability","E.7.2. Acquire and manage financing","",""
+"id-24594cd3d95747308e772c69e647dd11","Capability","E.7.3. Manage financial transactions and ledger","",""
+"id-172e726793ce49f89ee709a3b9b04c50","Grouping","E. Enterprise Capabilities","",""
