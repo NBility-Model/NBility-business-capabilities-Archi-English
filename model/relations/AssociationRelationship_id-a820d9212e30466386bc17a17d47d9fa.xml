@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="indiener van"
+    id="id-a820d9212e30466386bc17a17d47d9fa"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-495781d94e4841e3a30902d841859b63.xml#id-495781d94e4841e3a30902d841859b63"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a1a95576134f4db9bcd6fd1c540a88fa.xml#id-a1a95576134f4db9bcd6fd1c540a88fa"/>
+</archimate:AssociationRelationship>

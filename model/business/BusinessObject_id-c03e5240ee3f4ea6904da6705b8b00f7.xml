@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Worker deployment"
+    id="id-c03e5240ee3f4ea6904da6705b8b00f7"
+    documentation="Het (gevraagde, geplande of daadwerkelijke) verbruik van de capaciteit van medewerkers."/>

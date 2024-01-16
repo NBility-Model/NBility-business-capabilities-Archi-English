@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gepland in"
+    id="id-e40318fd16d74712a1560fc62fa7bfee"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0d30b2c5ef3a44f7826f016de583c044.xml#id-0d30b2c5ef3a44f7826f016de583c044"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-69a996a6f1864656b7d326c42d71b251.xml#id-69a996a6f1864656b7d326c42d71b251"/>
+</archimate:AssociationRelationship>

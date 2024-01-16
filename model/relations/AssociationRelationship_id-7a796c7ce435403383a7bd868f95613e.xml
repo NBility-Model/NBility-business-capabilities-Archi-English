@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mitigatie van"
+    id="id-7a796c7ce435403383a7bd868f95613e"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-10fc654f762d4ed48bea4a3cb53b43f5.xml#id-10fc654f762d4ed48bea4a3cb53b43f5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-565e36ff26084f86962e5bb47946da97.xml#id-565e36ff26084f86962e5bb47946da97"/>
+</archimate:AssociationRelationship>

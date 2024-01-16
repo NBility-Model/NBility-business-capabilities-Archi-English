@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voor"
+    id="id-4aa8ec07b55c44509de9b26a7276bd4f"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c03e5240ee3f4ea6904da6705b8b00f7.xml#id-c03e5240ee3f4ea6904da6705b8b00f7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-82a181fbd7834e20853999e9b44898fc.xml#id-82a181fbd7834e20853999e9b44898fc"/>
+</archimate:AssociationRelationship>

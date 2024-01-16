@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outage"
+    id="id-a65b7143178040b4aa7be5f204bbcdb2"
+    documentation="Een interruptie of beperking van het transport van energie bij één of meer afnemers."/>
