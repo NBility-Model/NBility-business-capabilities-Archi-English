@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capabilities on Level 1, 2 and 3"
+    name="Core Business Capabilities on Level 1, 2 and 3"
     id="id-d90f992c0b4d4d1e9703bfc8d4878546">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
