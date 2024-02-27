@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wederpartij in"
+    id="id-34be9154d5744702aa7fe15794ba3b05"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f4d85bf035b44adeb3b39a4b8b65aad9.xml#id-f4d85bf035b44adeb3b39a4b8b65aad9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1f485eebf5bb4b3f8955bd6c9513f790.xml#id-1f485eebf5bb4b3f8955bd6c9513f790"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afspraak over of aanvaarding van"
+    id="id-79f9f54168d64dfe932e433fb833c72f"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1f485eebf5bb4b3f8955bd6c9513f790.xml#id-1f485eebf5bb4b3f8955bd6c9513f790"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7738e392860e43c39faffadc5f8f301a.xml#id-7738e392860e43c39faffadc5f8f301a"/>
+</archimate:AssociationRelationship>

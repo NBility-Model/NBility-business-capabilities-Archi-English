@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization of transport service offered on"
+    id="id-53a314476f4f4828ab264baad02a896e">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e5fe2578caad42c7be58a249511f3f57.xml#id-e5fe2578caad42c7be58a249511f3f57"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e8310b6507504c1eb6eedba530efadc2.xml#id-e8310b6507504c1eb6eedba530efadc2"/>
+</archimate:AssociationRelationship>

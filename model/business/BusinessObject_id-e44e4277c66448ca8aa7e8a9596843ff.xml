@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goods movement"
+    id="id-e44e4277c66448ca8aa7e8a9596843ff"
+    documentation="Een fysieke of logische verplaatsing van goederen. Hieronder wordt mede verstaan de ontvangst, reservering, uitgifte en retournering van goederen."/>

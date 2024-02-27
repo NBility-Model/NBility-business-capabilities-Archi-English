@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="van of met"
+    id="id-3e367739dec9495ba9ad7ebc597f6701"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d9c3804c1d24fecbc611344c2cff34d.xml#id-3d9c3804c1d24fecbc611344c2cff34d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fe81c04e891d4749b7908bc6dc863398.xml#id-fe81c04e891d4749b7908bc6dc863398"/>
+</archimate:AssociationRelationship>

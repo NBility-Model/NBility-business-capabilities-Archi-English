@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secondary grid component"
+    id="id-6f583e58ccab449fb55aae9672adb1f2"
+    documentation="Een netcomponent bedoeld voor het meten en/of sturen (inclusief beveiligen) van energietransport."/>

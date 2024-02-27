@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in gebied van"
+    id="id-6b1fc976fed541928e7cba243e524f04"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fe81c04e891d4749b7908bc6dc863398.xml#id-fe81c04e891d4749b7908bc6dc863398"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ebcd889d3d1d4541b66636515a8d53f3.xml#id-ebcd889d3d1d4541b66636515a8d53f3"/>
+</archimate:AssociationRelationship>
