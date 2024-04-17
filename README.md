@@ -1,6 +1,6 @@
 # NBility-business-capabilities-Archi-English
 
-This repo contains NBility-business-capabilities model version 2.1 in English and in Archi format.  The model is built using Archi. 
+This repo contains NBility-business-capabilities model version 2.2 in English and in Archi format.  The model is built using Archi. 
 
 # View 
 The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi-English/).
